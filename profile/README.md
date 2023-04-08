@@ -1,6 +1,6 @@
 Hello curious explorer,
 
-We would like to inform you that Tabby is currently under construction. Despite this, we will be releasing our work on code intelligence to the public in increments.
+We would like to inform you that Tabby is currently under construction. We will be releasing our work on code intelligence to the public in increments.
 
 If you are interested in participating in our beta run, please visit [our website](https://tabbyml.com)
 
