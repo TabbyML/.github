@@ -1,8 +1,8 @@
-Hi curious explorer
+Hello curious explorer,
 
-Tabby is still under construction, but we'll gradually release our work on code intelligence to the public.
+We would like to inform you that Tabby is currently under construction. Despite this, we will be releasing our work on code intelligence to the public in increments.
 
-In the mean time, if you're interested in a beta run, please checkout [our website](https://tabbyml.com)
+If you are interested in participating in our beta run, please visit [our website](https://tabbyml.com)
 
 ## 🙋 We're hiring
 Come help us make Tabby even better. We're growing fast [and would love for you to join us](https://tabbyml.notion.site/Careers-35b1a77f3d1743d9bae06b7d6d5b814a).
