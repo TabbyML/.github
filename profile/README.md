@@ -11,3 +11,6 @@ Come help us make Tabby even better. We're growing fast [and would love for you 
 We rely on many Generative AI productivity tools internally:
 1. Documents are created with help of Notion AI.
 2. Logo is created using Midjourney.
+
+## 💬 Chat with us
+Reserve a slot at [Calendly](https://calendly.com/tabby_ml/chat-with-tabbyml) to book our office hours.
